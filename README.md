@@ -1,14 +1,14 @@
-maybe an image here?
+<img src="images/olympic.png" alt="image of Olympic Rings"
+# Olympic Data Visulization Project
 
-# Olympic Fata Visulization Project
-
-### synopsis would go here 
+### All Winter Olympic medals earned in history for each country
 
 and some text about your project, your insights, etc
 
 ### Author
+	Jordan Andrigo
 
-### Tools Used
+### Built with Python3 
 
 
 ### Licence
